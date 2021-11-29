@@ -1,3 +1,5 @@
-# public
+# controller
 
-C'est le seul dossier qui sera accessible à l'utilisateur de votre site, c'est ici que l'on mettra le contrôleur frontal `index.php`, ainsi que les dossiers publiques tels que `css`, `js`, `img` etc...
+C'est le dossier qui contiendra les controllers permettant le lien entre les actions utilisateur ("routages"), les modèles et les vues
+
+Il s'agit d'une extension de `public/index.php` qui lui-même est un contrôleur dit frontal

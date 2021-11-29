@@ -1,3 +1,3 @@
-# public
+# model
 
-C'est le seul dossier qui sera accessible à l'utilisateur de votre site, c'est ici que l'on mettra le contrôleur frontal `index.php`, ainsi que les dossiers publiques tels que `css`, `js`, `img` etc...
+C'est le dossier qui contiendra la logique de gestion des données, en procédural ce seront des fonctions, avec des requêtes SQL, et en Orienté objet se seront des classes
